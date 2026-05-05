@@ -1,4 +1,4 @@
-# AEMET Climate Forecasting
+# AEMET Weather Forecasting
 
 Multi-horizon regression models for predicting extreme temperature and 
 precipitation events using historical SYNOP station data from AEMET 
