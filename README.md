@@ -20,6 +20,17 @@ sequence models are developed and compared, using a rich feature set that
 includes lagged climate variables, atmospheric pressure, relative humidity, 
 solar radiation, altitude and geographic coordinates.
 
+## EDA Highlights
+
+### Station network coverage
+![Station map](output_figures/map_selected_stations.png)
+
+### Long-term warming trend — decadal evolution of daily maximum temperature
+![Decadal evolution tmax](output_figures/decadal_evolution_tmax.png)
+
+### Seasonal decomposition — daily maximum temperature · Madrid-Retiro
+![Decomposition tmax Madrid-Retiro](output_figures/decomposition_3195_tmax.png)
+
 ---
 
 ## Project Phases
