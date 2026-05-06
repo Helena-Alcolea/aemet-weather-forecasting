@@ -28,7 +28,7 @@ solar radiation, altitude and geographic coordinates.
 ### Long-term warming trend — decadal evolution of daily maximum temperature
 ![Decadal evolution tmax](output_figures/decadal_evolution_tmax.png)
 
-### Seasonal decomposition — daily maximum temperature · Madrid-Retiro
+### Time series decomposition — daily maximum temperature · Madrid-Retiro
 ![Decomposition tmax Madrid-Retiro](output_figures/decomposition_3195_tmax.png)
 
 ---
